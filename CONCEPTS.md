@@ -1,1 +1,1 @@
-# Concepts Addressed in Array Computing and Curve Plotting
+# Concepts Addressed in Dictionaries and Strings
