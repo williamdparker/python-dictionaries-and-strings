@@ -7,6 +7,6 @@ Please complete the following exercises:
 * 6.4
 * 6.6
 * 6.8
-* 6.27
+* 6.15
 * Hertzsprung-Russell diagram
 
